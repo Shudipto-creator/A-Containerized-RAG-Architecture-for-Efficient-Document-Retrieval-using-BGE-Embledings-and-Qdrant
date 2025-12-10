@@ -32,6 +32,7 @@ app.add_middleware(
 )
 
 # Singleton for embedding model to avoid reloading
+#Singleton Pattern: Ensures only one instance of the embedding model is loaded in memory
 class EmbeddingModelSingleton:
     _instance = None
     _model = None
