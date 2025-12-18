@@ -33,7 +33,7 @@ A scalable and efficient Retrieval-Augmented Generation (RAG) system containeriz
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:Shudipto-creator/A-Containerized-RAG-Architecture-for-Efficient-Document-Retrieval-using-BGE-Embledings-and-Qdrant.git
+   git clone Shudipto-creator/A-Containerized-RAG-Architecture-for-Efficient-Document-Retrieval-using-BGE-Embledings-and-Qdrant.git
    cd "A Containerized RAG Architecture for Efficient Document Retrieval using BGE Embledings and Qdrant"
    ```
 
